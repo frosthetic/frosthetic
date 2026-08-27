@@ -1,5 +1,4 @@
 <br><p align="center"><img src="https://files.catbox.moe/kjc9dw.jpg" width="600">
-<br>
 <br><p align="center"><img src="https://komarev.com/ghpvc/?username=name&base=20000&label=✧&base=0&color=AA9BEC&style=flat-square"> </p>
 <div align="center"> 
 <img src="https://files.catbox.moe/6824xv.png" width="300">
